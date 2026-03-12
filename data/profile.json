@@ -8,14 +8,14 @@
       "duration": "2026",
       "description": "A dynamic full-stack personal portfolio website built using HTML, CSS, JavaScript, and Node.js. Implements modular architecture, asynchronous callbacks, and JSON data handling.",
       "tech": ["HTML", "CSS", "JavaScript", "Node.js", "JSON"],
-      "github": "https://github.com/YOUR-USERNAME/YOUR-REPO"
+      "github": "https://github.com/Bhavani-1010/personal-profile.git"
     },
     {
       "title": "Student's Internal Marks Management System",
       "duration": "2024 - 2025",
       "description": "A secure web-based system designed to streamline student internal assessment management.",
       "tech": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-      "github": "https://github.com/YOUR-USERNAME/MARKS-REPO"
+      "github": "https://github.com/Bhavani-1010/students-internal-marks-management-system.git"
     },
     {
       "title": "Password-Protected Image Steganography",
