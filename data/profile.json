@@ -1,0 +1,28 @@
+{
+  "name": "Bhavani Baskaran",
+  "title": "Web Developer | Data Enthusiast",
+
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "duration": "2026",
+      "description": "A dynamic full-stack personal portfolio website built using HTML, CSS, JavaScript, and Node.js. Implements modular architecture, asynchronous callbacks, and JSON data handling.",
+      "tech": ["HTML", "CSS", "JavaScript", "Node.js", "JSON"],
+      "github": "https://github.com/YOUR-USERNAME/YOUR-REPO"
+    },
+    {
+      "title": "Student's Internal Marks Management System",
+      "duration": "2024 - 2025",
+      "description": "A secure web-based system designed to streamline student internal assessment management.",
+      "tech": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      "github": "https://github.com/YOUR-USERNAME/MARKS-REPO"
+    },
+    {
+      "title": "Password-Protected Image Steganography",
+      "duration": "Jan - Feb 2025",
+      "description": "A secure steganography system developed to hide and retrieve confidential messages within images using pixel manipulation techniques.",
+      "tech": ["Python", "OpenCV", "Pickle"],
+      "github": "https://github.com/Bhavani-1010/CYBER-PROJECT.git"
+    }
+  ]
+}

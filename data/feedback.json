@@ -1,0 +1,20 @@
+[
+  {
+    "name": "bhavani",
+    "email": "b@gmail.com",
+    "message": "goiod",
+    "rating": "3"
+  },
+  {
+    "name": "pavi",
+    "email": "pavi@gmail.com",
+    "message": "nice",
+    "rating": "4"
+  },
+  {
+    "name": "bb",
+    "email": "bb@gmail.com",
+    "message": "very nice",
+    "rating": "5"
+  }
+]

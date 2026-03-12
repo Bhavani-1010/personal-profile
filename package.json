@@ -1,0 +1,15 @@
+{
+  "name": "bhavani-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website with Node.js backend and dynamic feedback system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["portfolio", "nodejs", "web-development"],
+  "author": "Bhavani Baskaran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
